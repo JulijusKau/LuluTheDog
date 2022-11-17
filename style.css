@@ -55,7 +55,7 @@ a {
 /* Sita nuotrauka labai tinka */
 #mainphoto {
   grid-area: 1 / 1 / 4 / 4;
-  background-image: url(Photos/10.jpg);
+  background-image: url(photos/10.jpg);
   background-position: center;
   background-size: cover;
 }
