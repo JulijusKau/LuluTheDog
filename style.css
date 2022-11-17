@@ -110,7 +110,7 @@ a {
 
 #photoright2 {
   grid-area: 3 / 5 / 4 / 6;
-  background-image: url(/LuluTheDog/Photos/1.jpg);
+  background-image: url(https://raw.githubusercontent.com/JulijusKau/LuluTheDog/master/Photos/1.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -134,7 +134,7 @@ a {
 
 #photoright4 {
   grid-area: 5 / span 1 / 7;
-  background-image: url(/LuluTheDog/Photos/2.jpg);
+  background-image: url(LuluTheDog/Photos/2.jpg);
   background-position: center;
   background-size: cover;
 }
