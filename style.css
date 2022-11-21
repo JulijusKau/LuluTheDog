@@ -202,7 +202,7 @@ footer {
 
   nav {
     column-gap: 10px;
-    height: 70%;
+    height: fit-content;
   }
 
   a {
