@@ -223,20 +223,22 @@ footer {
 
   #maintext {
     grid-area: 1 / 1 / 2 / 4;
-    border: 20px solid black;
+    border: 20px solid orange;
+    background-color: orange;
     border-bottom: 0px;
   }
 
   #mainphoto {
     grid-area: 2 / 1 / 4 / 4;
     border-radius: 0;
-    border: 20px solid black;
+    border: 20px solid orange;
   }
 
   #rubai.text1 {
     grid-area: 4 / 1 / 5 / 4;
     border: 20px solid orange;
     border-bottom: 0px;
+    background-color: orange;
   }
 
   #photo1 {
@@ -247,20 +249,23 @@ footer {
 
   #kinga.text1 {
     grid-area: 7 / 1 / 8 / 4;
-    border: 20px solid black;
+    border: 20px solid orange;
     border-bottom: 0px;
+    background-color: orange;
+    font-size: 20x;
   }
 
   #photo2 {
     grid-area: 8 / 1 / 10 / 4;
     border-radius: 0;
-    border: 20px solid black;
+    border: 20px solid orange;
   }
 
   #kaulas.text1 {
     grid-area: 10 / 1 / 11 / 4;
     border: 20px solid orange;
     border-bottom: 0px;
+    background-color: orange;
   }
 
   #photo3 {
@@ -272,14 +277,15 @@ footer {
   #photoright1 {
     grid-area: 13 / 1 / 15 / 4;
     border-radius: 0;
-    border: 10px solid black;
+    border: 10px solid orange;
     border-bottom: 0px;
     padding: 0;
   }
 
   #knyga.text2 {
     grid-area: 15 / 1 / 16 / 4;
-    border: 10px solid black;
+    border: 10px solid orange;
+    background-color: orange;
   }
 
   #photoright2 {
@@ -292,11 +298,12 @@ footer {
   #photoright3 {
     grid-area: 16 / 1 / 18 / 4;
     border-radius: 0;
-    border: 10px solid black;
+    border: 10px solid orange;
   }
   #vairavimas.text2 {
     grid-area: 20 / 1 / 21 / 4;
     border: 10px solid orange;
+    background-color: orange;
   }
   #photoright4 {
     grid-area: 21 / 1 / 23 / 4;
@@ -304,9 +311,10 @@ footer {
     border: 10px solid orange;
   }
 
-  .maintext,
+  #maintext,
   .text1,
   .text2 {
-    font-size: 30px;
+    font-size: 20px;
+    text-align: center;
   }
 }
