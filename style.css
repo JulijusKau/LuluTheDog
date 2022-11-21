@@ -202,13 +202,13 @@ footer {
 
   nav {
     column-gap: 10px;
-    height: inherit;
+    height: max-content;
   }
 
   a {
     padding: 5px;
     text-align: center;
-    font-size: 10px;
+    font-size: 11px;
   }
 
   a > img {
